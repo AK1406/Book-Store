@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="about_book_store">"There is no need to throw old books when not in use or not need to keep them in store rooms ! We are here to help you.My shop Royal Book Depot deals with secondhand books. You can sell your books to us at half price of the book.You can also purchase books from us as we sell the secondhand books. Make order fast !! for more information go the the website link provided below."</string>
+    <string name="website_link">https://www.justdial.com/Delhi/Royal-Book-Depot-Near-Jagat-Farm-Golchakkar-Greater-Noida/011PXX11-XX11-100620114927-G4Z9_BZDET</string>
+    <string name="website">Website :</string>
+    <string name="email">Email : royalbookdepot123@gmail.com</string>
+    <string name="phn_no">Phn No : +91 9350892790</string>
+    <string name="contact_us">Contact Us :</string>
+    <string name="hours">10:00 am to 09:00 pm</string>
+    <string name="operation_hours">Operation Hours :</string>
+    <string name="location">Shop No 8, 9 Amritpuram, Surajpur Kasna Road, Greater Noida, Noida - 201310, Near Jagat Farm Golchakkar</string>
+    <string name="address">Location :</string>
+    <string name="store_description">Store Description :</string>
+    <string name="secondhand_books_dealers">Secondhand Books Dealers</string>
+    <string name="royal_book_depot">Royal Book Depot</string>
+    <string name="shop_image">Shop Image</string>
+</resources>
